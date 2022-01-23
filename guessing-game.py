@@ -1,4 +1,7 @@
-print ("GUESSING GAME")
+print ("""
+A  GUESSING GAME
+Enter a single digit number to play
+""")
 secret_no = 9
 guess_no = 0
 guess_limit= 3
